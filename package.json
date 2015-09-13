@@ -1,0 +1,24 @@
+{
+  "name": "babiesmx",
+  "version": "1.0.0",
+  "description": "Todo sobre tu bebé.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathaliesicard/babiesmx.git"
+  },
+  "keywords": [
+    "babies",
+    "bebes",
+    "bebe"
+  ],
+  "author": "Nathalie Sicard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathaliesicard/babiesmx/issues"
+  },
+  "homepage": "https://github.com/nathaliesicard/babiesmx"
+}
