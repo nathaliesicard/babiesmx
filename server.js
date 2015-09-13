@@ -12,11 +12,15 @@ var smtpTransport = require('nodemailer-smtp-transport');
 var app = koa();
 app.use(gzip());
 app.use(static('public'));
+
+
 app.use(bodyParser());
 
-router.get('/blog', function*(){
-    return this.response.redirect('/blog/index.html');
-});
+
+
+//router.get('/blog', function*(){
+//    return this.response.redirect('/blog/index.html');
+//});
 
 
 var transporter = nodemailer.createTransport(smtpTransport({
