@@ -30,5 +30,8 @@
     "koa-static": "^1.4.9",
     "nodemailer": "^1.4.0",
     "nodemailer-smtp-transport": "^1.0.3"
+  },
+  "engines": {
+    "node": "4.0.x"
   }
 }
