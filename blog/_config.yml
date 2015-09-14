@@ -16,3 +16,4 @@ markdown: kramdown
 paginate: 5
 category_dir: categories
 category_title_prefix: 'Sección: '
+gems: ['jekyll-lunr-js-search']
