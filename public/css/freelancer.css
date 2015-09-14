@@ -48,7 +48,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f08a";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -80,9 +80,9 @@ hr.star-primary:after {
 }
 
 header {
-    text-align: center;
-    color: #fff;
-    background: #18bc9c;
+    text-align: left;
+    color: #ff66d2;
+    background: transparent;
 }
 
 header .container {
@@ -262,7 +262,7 @@ section.success a.active {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #f9ace5;
     font-size: 20px;
     color: #fff;
     background: 0 0;
