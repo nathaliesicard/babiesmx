@@ -18,9 +18,9 @@ app.use(bodyParser());
 
 
 
-//router.get('/blog', function*(){
-//    return this.response.redirect('/blog/index.html');
-//});
+router.get('/blog', function*(){
+    return this.response.redirect('/blog/index.html');
+});
 
 
 var transporter = nodemailer.createTransport(smtpTransport({
@@ -67,7 +67,7 @@ app.use(router.routes());
 
 app.use(function *(){
     this.response.status = 404;
-    this.body = 'Lo sentimos, no se encontró el archivo. Por favor vuelve a chibichow.com y empieza de nuevo.';
+    this.body = 'Lo sentimos, no se encontró el archivo. Por favor vuelve a Babies.mx y comienza de nuevo.';
 });
 
 
