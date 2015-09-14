@@ -3,6 +3,8 @@ layout: post
 title:  "Guía de compras"
 date:   2015-09-12 22:23:32
 categories: compras
+comments: True
+
 ---
 ![PRUEBA]({{ site.url }}/img/profile.png)
 
