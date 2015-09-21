@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cuidados del bebé"
-date:   2015-09-12 22:23:32
+title:  "Cómo elegir el nombre de tu bebé"
+date:   2015-09-17 20:14:32
 categories: bebe
 comments: True
 
