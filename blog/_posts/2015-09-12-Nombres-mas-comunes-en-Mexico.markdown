@@ -6,9 +6,10 @@ categories: bebe
 comments: True
 
 ---
-<div class="text-center">
-![Título Nombres más comunes en México]({{ site.url }}/img/media/nombres_mas_comunes_mexico.png)
-</div>
+
+![Título Nombres más comunes en México]({{ site.url }}/img/media/nombres_mas_comunes_mexico.png){: .center-image .img-responsive }
+<br>
+
 A la hora de escoger el nombre de tu bebé es útil conocer cuáles son los nombres más usados en México, especialmente si no quieres que tu bebé tenga un nombre muy común.
 Existe un organismo llamado Registro Nacional de Población e Identificación Personal (RENAPO) que tiene como misión principalmente organizar y gestionar los datos de todos los mexicanos y extranjeros residiendo en México que se encuentran registrados y cuentan con una Clave Única de Registro de Población (CURP).
 
@@ -16,7 +17,7 @@ En esta ocasión te presentamos resultados estadísticos de los nombres con mayo
 
 Considera que estos nombres no necesariamente son los que están en tendencia ascendente en la actualidad, pero seguramente seguirán siendo muy comunes.
 
-No significa que estos nombres no sean una buena opción para el nombre de tu bebé, pues la decisión está en ti y depende de muchos factores. Sin duda estos nombres son clásicos mexicanos.
+No significa que estos nombres no sean una buena opción para el nombre de tu bebé, pues la decisión está en ti y depende de muchos factores. Sin duda estos nombres son clásicos mexicanos. 
 
 <br>
 
@@ -37,7 +38,7 @@ No significa que estos nombres no sean una buena opción para el nombre de tu be
 	font-weight: bold;
 	text-align: center;
 }
-</style><table class="tableizer-table-girl">
+</style><table class="tableizer-table-girl" align="center">
 <tr><th>Rank</th><th>Nombre</th><th>Num. Incidencias</th></tr>
  <tr><td>1</td><td>María Guadalupe</td><td>848,375</td></tr>
  <tr><td>2</td><td>Guadalupe</td><td>634,712</td></tr>
@@ -70,7 +71,6 @@ No significa que estos nombres no sean una buena opción para el nombre de tu be
  <tr><td>29</td><td> Gloria</td><td>172,527</td></tr>
  <tr><td>30</td><td> Araceli</td><td>164,594</td></tr>
 </table>
-
 <br>
 <h4>Nombres de niños más populares en México</h4><br>
 
@@ -90,7 +90,7 @@ No significa que estos nombres no sean una buena opción para el nombre de tu be
 	font-weight: bold;
 		text-align: center;
 }
-</style><table class="tableizer-table">
+</style><table class="tableizer-table" align="center">
 <tr><th>Rank</th><th>Nombre</th><th>Num. Incidencias</th></tr>
  <tr><td>1</td><td>José Luis</td><td>936,166</td></tr>
  <tr><td>2</td><td>Juan</td><td>867,641</td></tr>
@@ -125,5 +125,8 @@ No significa que estos nombres no sean una buena opción para el nombre de tu be
 </table>
 <br>
 
+Si quieres conocer también los nombres con mayor incidencia en México en la actualidad, te invitamos a visitar <a href="{{ site.url }}/blog/bebe/2015/09/12/Nombres-mas-comunes-en-Mexico-actualidad.html"> este artículo </a> dentro de nuestra web.
+
+<br>
 Fuente: <a href="https://renapo.gob.mx/">RENAPO. Noviembre, 2008.</a>
 
