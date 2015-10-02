@@ -6,8 +6,9 @@ categories: bebe
 comments: True
 
 ---
+<div class="text-center">
 ![Título Nombres más comunes en México]({{ site.url }}/img/media/nombres_mas_comunes_mexico.png)
-
+</div>
 A la hora de escoger el nombre de tu bebé es útil conocer cuáles son los nombres más usados en México, especialmente si no quieres que tu bebé tenga un nombre muy común.
 Existe un organismo llamado Registro Nacional de Población e Identificación Personal (RENAPO) que tiene como misión principalmente organizar y gestionar los datos de todos los mexicanos y extranjeros residiendo en México que se encuentran registrados y cuentan con una Clave Única de Registro de Población (CURP).
 

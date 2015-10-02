@@ -6,8 +6,8 @@
 </description>
     <link>http://www.babies.mx/blog/</link>
     <atom:link href="http://www.babies.mx/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Oct 2015 21:52:38 -0500</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2015 21:52:38 -0500</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2015 21:54:52 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2015 21:54:52 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -84,8 +84,9 @@
     
       <item>
         <title>Nombres más comunes en México</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://www.babies.mx/img/media/nombres_mas_comunes_mexico.png&quot; alt=&quot;Título Nombres más comunes en México&quot; /&gt;&lt;/p&gt;
-
+        <description>&lt;div class=&quot;text-center&quot;&gt;
+![Título Nombres más comunes en México](http://www.babies.mx/img/media/nombres_mas_comunes_mexico.png)
+&lt;/div&gt;
 &lt;p&gt;A la hora de escoger el nombre de tu bebé es útil conocer cuáles son los nombres más usados en México, especialmente si no quieres que tu bebé tenga un nombre muy común.
 Existe un organismo llamado Registro Nacional de Población e Identificación Personal (RENAPO) que tiene como misión principalmente organizar y gestionar los datos de todos los mexicanos y extranjeros residiendo en México que se encuentran registrados y cuentan con una Clave Única de Registro de Población (CURP).&lt;/p&gt;
 
