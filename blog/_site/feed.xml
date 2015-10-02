@@ -6,8 +6,8 @@
 </description>
     <link>http://www.babies.mx/blog/</link>
     <atom:link href="http://www.babies.mx/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Oct 2015 19:38:38 -0500</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2015 19:38:38 -0500</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2015 21:52:38 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2015 21:52:38 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -84,7 +84,9 @@
     
       <item>
         <title>Nombres más comunes en México</title>
-        <description>&lt;p&gt;A la hora de escoger el nombre de tu bebé es útil conocer cuáles son los nombres más usados en México, especialmente si no quieres que tu bebé tenga un nombre muy común.
+        <description>&lt;p&gt;&lt;img src=&quot;http://www.babies.mx/img/media/nombres_mas_comunes_mexico.png&quot; alt=&quot;Título Nombres más comunes en México&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A la hora de escoger el nombre de tu bebé es útil conocer cuáles son los nombres más usados en México, especialmente si no quieres que tu bebé tenga un nombre muy común.
 Existe un organismo llamado Registro Nacional de Población e Identificación Personal (RENAPO) que tiene como misión principalmente organizar y gestionar los datos de todos los mexicanos y extranjeros residiendo en México que se encuentran registrados y cuentan con una Clave Única de Registro de Población (CURP).&lt;/p&gt;
 
 &lt;p&gt;En esta ocasión te presentamos resultados estadísticos de los nombres con mayor incidencia en México desde 1930 a 2008 (cuando se realizó dicho estudio), tanto para hombres como para mujeres.&lt;/p&gt;
@@ -93,25 +95,29 @@ Existe un organismo llamado Registro Nacional de Población e Identificación Pe
 
 &lt;p&gt;No significa que estos nombres no sean una buena opción para el nombre de tu bebé, pues la decisión está en ti y depende de muchos factores. Sin duda estos nombres son clásicos mexicanos.&lt;/p&gt;
 
-&lt;h3&gt;Nombres de niñas más populares en México&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Nombres de niñas más populares en México&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-	table.tableizer-table {
+	table.tableizer-table-girl {
 	border: 1px solid #CCC;
 }
-.tableizer-table td {
+.tableizer-table-girl td {
 	padding: 4px;
 	margin: 3px;
 	border: 1px solid #ccc;
 }
-.tableizer-table th {
-	background-color: ##ff66d2;
+.tableizer-table-girl th {
+	background-color: #ff66d2;
 	color: #FFF;
 	font-weight: bold;
+	text-align: center;
 }
 &lt;/style&gt;
-&lt;table class=&quot;tableizer-table&quot;&gt;
-&lt;tr class=&quot;tableizer-firstrow&quot;&gt;&lt;th&gt;Rank&lt;/th&gt;&lt;th&gt;Nombre&lt;/th&gt;&lt;th&gt;Num. Incidencias&lt;/th&gt;&lt;/tr&gt;
+&lt;table class=&quot;tableizer-table-girl&quot;&gt;
+&lt;tr&gt;&lt;th&gt;Rank&lt;/th&gt;&lt;th&gt;Nombre&lt;/th&gt;&lt;th&gt;Num. Incidencias&lt;/th&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;María Guadalupe&lt;/td&gt;&lt;td&gt;848,375&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Guadalupe&lt;/td&gt;&lt;td&gt;634,712&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;María&lt;/td&gt;&lt;td&gt;611,467&lt;/td&gt;&lt;/tr&gt;
@@ -144,7 +150,9 @@ Existe un organismo llamado Registro Nacional de Población e Identificación Pe
  &lt;tr&gt;&lt;td&gt;30&lt;/td&gt;&lt;td&gt; Araceli&lt;/td&gt;&lt;td&gt;164,594&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;h3&gt;Nombres de niños más populares en México&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;Nombres de niños más populares en México&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 	table.tableizer-table {
@@ -159,10 +167,11 @@ Existe un organismo llamado Registro Nacional de Población e Identificación Pe
 	background-color: #67AFFF;
 	color: #FFF;
 	font-weight: bold;
+		text-align: center;
 }
 &lt;/style&gt;
 &lt;table class=&quot;tableizer-table&quot;&gt;
-&lt;tr class=&quot;tableizer-firstrow&quot;&gt;&lt;th&gt;Rank&lt;/th&gt;&lt;th&gt;Nombre&lt;/th&gt;&lt;th&gt;Num. Incidencias&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Rank&lt;/th&gt;&lt;th&gt;Nombre&lt;/th&gt;&lt;th&gt;Num. Incidencias&lt;/th&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;José Luis&lt;/td&gt;&lt;td&gt;936,166&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Juan&lt;/td&gt;&lt;td&gt;867,641&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;Miguel Ángel&lt;/td&gt;&lt;td&gt;811,260&lt;/td&gt;&lt;/tr&gt;
@@ -194,6 +203,7 @@ Existe un organismo llamado Registro Nacional de Población e Identificación Pe
  &lt;tr&gt;&lt;td&gt;29&lt;/td&gt;&lt;td&gt; Gerardo&lt;/td&gt;&lt;td&gt;464,175&lt;/td&gt;&lt;/tr&gt;
  &lt;tr&gt;&lt;td&gt;30&lt;/td&gt;&lt;td&gt; Juan Manuel&lt;/td&gt;&lt;td&gt;452,181&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Fuente: &lt;a href=&quot;https://renapo.gob.mx/&quot;&gt;RENAPO. Noviembre, 2008.&lt;/a&gt;&lt;/p&gt;
 
