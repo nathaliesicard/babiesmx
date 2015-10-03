@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="category-archive">
+  <div>
+    <h3>{{ page.category }}</h3>
+  </div>
+  <div>
+    <ul>
+      <ul>
+        {% for post in site.categories[page.category] limit 5 %}
+        <li style="list-style: none"><span>{{ post.date | date_to_string }}</span> &raquo; <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3></li>
+        {{ post.content | truncatewords:20}}<br>
+        <a href="{{ site.baseurl }}{{ post.url }}">Leer más...</a><br><br>
+        {% endfor %}
+      </ul>
+    </ul>
+  </div>
+</div>
