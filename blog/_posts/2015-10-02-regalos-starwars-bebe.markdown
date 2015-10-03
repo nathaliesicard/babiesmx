@@ -8,6 +8,10 @@ comments: True
 ---
 ![Regalos de Star Wars para niños]({{ site.url }}/img/media/regalos_starwars_para_bebe_titulo.jpg){: .center-image .img-responsive }
 <br>
+Te presentamos una selección de artículos temáticos de Star Wars que puedes regalar a niños, niñas y bebés que les encante la saga (o a sus papás). Todos estos artículos pueden ser comprados en línea en México. Star Wars es todo un clásico. ¡Esperamos que te gusten!
+<br>
+<br>
+
 <h4>1.	Yoda Señor Cara de Papa. $856</h4><br>
 <a href="http://www.linio.com.mx/Disney-Star-Wars-Yoda-Mashter-juguete-Mr.-Potato-Head-1331909.html">![Regalos de Star Wars para niños]({{ site.url }}/img/media/starwars_para_bebe_1.jpg)</a>{: .center-image .img-responsive }
 Mr Potato Head y Yoda Mashter, dos clásicos de Disney unidos en uno solo, ¡sin duda le encantará!
