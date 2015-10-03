@@ -6,25 +6,33 @@ categories: compras
 comments: True
 
 ---
-![Regalos de Star Wars para niños]({{ site.url }}/img/media/regalos_starwars_para_bebe_titulo.jpg)
-
-<h6>1.	Yoda Señor Cara de Papa. $856</h6><br>
-<a href="http://www.linio.com.mx/Disney-Star-Wars-Yoda-Mashter-juguete-Mr.-Potato-Head-1331909.html">![Regalos de Star Wars para niños]({{ site.url }}/img/media/starwars_para_bebe_1.jpg)</a>
+![Regalos de Star Wars para niños]({{ site.url }}/img/media/regalos_starwars_para_bebe_titulo.jpg){: .center-image .img-responsive }
+<br>
+<h4>1.	Yoda Señor Cara de Papa. $856</h4><br>
+<a href="http://www.linio.com.mx/Disney-Star-Wars-Yoda-Mashter-juguete-Mr.-Potato-Head-1331909.html">![Regalos de Star Wars para niños]({{ site.url }}/img/media/starwars_para_bebe_1.jpg)</a>{: .center-image .img-responsive }
 Mr Potato Head y Yoda Mashter, dos clásicos de Disney unidos en uno solo, ¡sin duda le encantará!
 Encuéntralo <a href="http://www.linio.com.mx/Disney-Star-Wars-Yoda-Mashter-juguete-Mr.-Potato-Head-1331909.html">aquí</a>.
 
-2.	Reloj de Lego de Yoda. $697
+
+<br>
+<h4>2.	Reloj de Lego de Yoda. $697</h4><br>
+<a href="http://www.liverpool.com.mx/tienda/reloj-lego-beige/1004580903?s=star+wars&skuId=1004580903">![Regalos de Star Wars para niños]({{ site.url }}/img/media/starwars_para_bebe_2.jpg)</a>{: .center-image .img-responsive }
 Excelente regalo para los pequeños e incluso también para grandes. Quedará super en la habitación!
-http://www.liverpool.com.mx/tienda/reloj-lego-beige/1004580903?s=star+wars&skuId=1004580903
+Encuéntralo <a href="http://www.liverpool.com.mx/tienda/reloj-lego-beige/1004580903?s=star+wars&skuId=1004580903">aquí</a>.
+
+<br>
+<h4>3.	Manos o Garras de Yoda. $678</h4>
+<a href="http://www.linio.com.mx/Star-wars-la-venganza-de-los-sith-disfraz-yoda-deluxe-manos--verde--talla-2292047.html">![Regalos de Star Wars para niños]({{ site.url }}/img/media/starwars_para_bebe_3.jpg)</a>{: .center-image .img-responsive }
+Ideales para esta época de Halloween, puede ser complemento para un disfraz o para asustar a alguien desprevenido.
+Encuéntralo <a href="http://www.linio.com.mx/Star-wars-la-venganza-de-los-sith-disfraz-yoda-deluxe-manos--verde--talla-2292047.html">aquí</a>.
+<br>
 
 
-3.	Manos o Garras de Yoda. $678
-Ideales para esta época de Halloween, puede ser complement para un disfraz o para asustar a alguien desprevenido.
-http://www.linio.com.mx/Star-wars-la-venganza-de-los-sith-disfraz-yoda-deluxe-manos--verde--talla-2292047.html
-
-4.	Gorro tejido de Yoda. $155
+<br>
+<h4>4.	Gorro tejido de Yoda. $155</h4><br>
+<a href="http://www.linio.com.mx/Gorro-Tejido-De-Estambre-Maestro-Yoda-De-Star-Wars-1463338.html">![Regalos de Star Wars para niños]({{ site.url }}/img/media/starwars_para_bebe_4.jpg)</a>{: .center-image .img-responsive }
 Una linda forma de proteger al bebé del frío y mostrar al mundo que será un niño sabio como el Maestro Yoda.
-http://www.linio.com.mx/Gorro-Tejido-De-Estambre-Maestro-Yoda-De-Star-Wars-1463338.html
+Encuéntralo <a href="http://www.linio.com.mx/Gorro-Tejido-De-Estambre-Maestro-Yoda-De-Star-Wars-1463338.html">aquí</a>.
 
 
 5.	Edredón de Star Wars Tamaño Individual $699
