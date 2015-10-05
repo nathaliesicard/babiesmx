@@ -9,12 +9,11 @@ twitter_username: babiesmx
 github_username:
 about: '/about'
 archive: '/archive'
+permalink: none
 
 # Build settings
 markdown: kramdown
 
 paginate: 5
-category_dir: categories
-category_title_prefix: 'Sección: '
 gems: ['jekyll-lunr-js-search']
 gems: ['jekyll-paginate']

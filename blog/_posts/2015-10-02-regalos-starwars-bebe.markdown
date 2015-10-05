@@ -6,7 +6,7 @@ categories: compras
 comments: True
 
 ---
-![Regalos de Star Wars para niños]({{ site.url }}/img/media/regalos_starwars_para_bebe_titulo.jpg){: .center-image .img-responsive }
+<a href="{{ site.url }}/blog/compras/2015/10/02/regalos-starwars-bebe.html">![Regalos de Star Wars para niños]({{ site.url }}/img/media/regalos_starwars_para_bebe_titulo.jpg)</a>{: .center-image .img-responsive }
 <br>
 Te presentamos una selección de artículos temáticos de Star Wars que puedes regalar a niños, niñas y bebés que les encante la saga (o a sus papás). Todos estos artículos pueden ser comprados en línea en México. Star Wars es todo un clásico. ¡Esperamos que te gusten!
 <br>
